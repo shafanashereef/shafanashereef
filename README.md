@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Python, MS Power BI, SQL, MS Excel**
 
-- 📫 How to reach me **shafana.finus@gmail.com**
+- 📫 How to reach me **shafanashereef.pk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
